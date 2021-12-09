@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Serif.Interop.Persona.Settings.ApplicationSettings">
+	<ShowRulers>False</ShowRulers>
+	<ApplyShortcutsToAll>False</ApplyShortcutsToAll>
+	<ShowWelcomeScreen2>True</ShowWelcomeScreen2>
+	<ShowAdvancedHistogram>True</ShowAdvancedHistogram>
+	<ShowAdvancedHistory>False</ShowAdvancedHistory>
+	<CheckSpellingWhileTyping>True</CheckSpellingWhileTyping>
+	<ClipToCanvas>True</ClipToCanvas>
+	<LockGridColours>True</LockGridColours>
+	<LayerThumbnailSize>28</LayerThumbnailSize>
+	<LayerCheckerboardBackground>False</LayerCheckerboardBackground>
+	<LayerGroupThumbnails>True</LayerGroupThumbnails>
+	<AutoScrollLayers>True</AutoScrollLayers>
+	<SwatchListMode>False</SwatchListMode>
+	<SelectedPaletteType>3</SelectedPaletteType>
+	<SwatchCellWidth>0</SwatchCellWidth>
+	<SelectedPaletteName>PANTONE+ CMYK Coated</SelectedPaletteName>
+	<PrimaryGridColour>
+		<R>204</R>
+		<G>204</G>
+		<B>204</B>
+		<A>89</A>
+	</PrimaryGridColour>
+	<SecondaryGridColour>
+		<R>204</R>
+		<G>204</G>
+		<B>204</B>
+		<A>45</A>
+	</SecondaryGridColour>
+	<HorizontalAlignTo>1</HorizontalAlignTo>
+	<VerticalAlignTo>2</VerticalAlignTo>
+	<ShowTableFormatNames>False</ShowTableFormatNames>
+	<TableFormatPreviewSize>0</TableFormatPreviewSize>
+	<PagesPageAutoScroll>True</PagesPageAutoScroll>
+	<PagesPageCellSize>2</PagesPageCellSize>
+	<RecentHyperlinkEmails />
+	<RecentHyperlinkFiles />
+	<RecentHyperlinkURLs />
+	<PreferredAuthor xsi:nil="true" />
+	<FindMatchCase>False</FindMatchCase>
+	<FindMatchWholeWord>False</FindMatchWholeWord>
+	<FindUseRegEx>False</FindUseRegEx>
+	<FindUseRegExLocale>False</FindUseRegExLocale>
+	<FindRegExMatchSingleLine>False</FindRegExMatchSingleLine>
+	<FindRegExDotMatchesNewline>False</FindRegExDotMatchesNewline>
+	<FillColumnGuides>False</FillColumnGuides>
+	<ColumnGuideFillColour>
+		<R>129</R>
+		<G>54</G>
+		<B>54</B>
+		<A>51</A>
+	</ColumnGuideFillColour>
+	<ColumnGuideLineColumnColour>
+		<R>0</R>
+		<G>3</G>
+		<B>255</B>
+		<A>216</A>
+	</ColumnGuideLineColumnColour>
+	<ColumnGuideLineRowColour>
+		<R>0</R>
+		<G>3</G>
+		<B>255</B>
+		<A>216</A>
+	</ColumnGuideLineRowColour>
+	<MonitorReferenceWhiteInNits>80</MonitorReferenceWhiteInNits>
+	<MergeDocumentMergeAll>True</MergeDocumentMergeAll>
+	<MergeDocumentMergeSection>False</MergeDocumentMergeSection>
+	<MergeDocumentMergeMode>1</MergeDocumentMergeMode>
+	<MergeDocumentTargetPages>False</MergeDocumentTargetPages>
+	<ResourceManagerSortOrder>1</ResourceManagerSortOrder>
+	<MergeDocumentIgnoreInitialSection>True</MergeDocumentIgnoreInitialSection>
+	<MergeDocumentIgnoreUnusedTextStyles>True</MergeDocumentIgnoreUnusedTextStyles>
+	<PackageFolder />
+	<AcceptedMediaLicence>False</AcceptedMediaLicence>
+</Settings>
