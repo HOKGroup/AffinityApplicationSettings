@@ -2,11 +2,11 @@
 <Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Serif.Interop.Persona.Settings.PerformanceSettings">
 	<RAMUsageLimit>
 		<UnitType>Megabyte</UnitType>
-		<Value>65461</Value>
+		<Value>20000</Value>
 	</RAMUsageLimit>
 	<DiskWarningLimit>
 		<UnitType>Megabyte</UnitType>
-		<Value>32768</Value>
+		<Value>20000</Value>
 	</DiskWarningLimit>
 	<UndoLimit>1024</UndoLimit>
 	<ViewQuality>0</ViewQuality>
@@ -14,7 +14,7 @@
 		<UnitType>Number</UnitType>
 		<Value>300</Value>
 	</AutoSaveInterval>
-	<UsePerfectClipping>True</UsePerfectClipping>
+	<UsePerfectClipping>False</UsePerfectClipping>
 	<UseDithering>True</UseDithering>
 	<RetinaPassIndex>0</RetinaPassIndex>
 	<UseHardwareAcceleration>False</UseHardwareAcceleration>
