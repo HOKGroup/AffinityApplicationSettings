@@ -3,12 +3,12 @@
 	<SnappingEnabled>True</SnappingEnabled>
 	<ScreenTolerance>8</ScreenTolerance>
 	<ScreenMinSize>8</ScreenMinSize>
-	<NodeToolSnapToNodes>False</NodeToolSnapToNodes>
+	<NodeToolSnapToNodes>True</NodeToolSnapToNodes>
 	<NodeToolSnapToGeometry>True</NodeToolSnapToGeometry>
-	<NodeToolSnapAllSelectedNodes>False</NodeToolSnapAllSelectedNodes>
-	<NodeToolSnapHandlePositions>False</NodeToolSnapHandlePositions>
-	<NodeToolSnapConstruction>False</NodeToolSnapConstruction>
-	<ShowSnappingCandidates>False</ShowSnappingCandidates>
+	<NodeToolSnapAllSelectedNodes>True</NodeToolSnapAllSelectedNodes>
+	<NodeToolSnapHandlePositions>True</NodeToolSnapHandlePositions>
+	<NodeToolSnapConstruction>True</NodeToolSnapConstruction>
+	<ShowSnappingCandidates>True</ShowSnappingCandidates>
 	<OnlySnapToVisible>True</OnlySnapToVisible>
 	<Guides>True</Guides>
 	<Margin>True</Margin>
@@ -16,15 +16,15 @@
 	<PageEdge>True</PageEdge>
 	<PageCentre>True</PageCentre>
 	<PixelSelectionBounds>True</PixelSelectionBounds>
-	<Grid>False</Grid>
-	<BaselineGrid>False</BaselineGrid>
+	<Grid>True</Grid>
+	<BaselineGrid>True</BaselineGrid>
 	<CandidateBounds>True</CandidateBounds>
 	<CandidateBoundsCentre>True</CandidateBoundsCentre>
 	<GapsAndSpans>True</GapsAndSpans>
-	<IndividualBounds>False</IndividualBounds>
+	<IndividualBounds>True</IndividualBounds>
 	<CandidateKeyPoints>True</CandidateKeyPoints>
 	<CandidateGeometry>True</CandidateGeometry>
 	<QuantizePixelMovement>True</QuantizePixelMovement>
-	<ForcePixelSnapping>False</ForcePixelSnapping>
+	<ForcePixelSnapping>True</ForcePixelSnapping>
 	<CandidateSource>1</CandidateSource>
 </Settings>

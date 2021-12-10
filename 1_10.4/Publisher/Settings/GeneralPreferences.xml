@@ -5,8 +5,8 @@
 	<PreserveUnicodeBreaksOnPlainTextCopy>False</PreserveUnicodeBreaksOnPlainTextCopy>
 	<LastDocuments />
 	<CultureName />
-	<SaveOverPSD>False</SaveOverPSD>
-	<LoadPSDSmartObjects>False</LoadPSDSmartObjects>
+	<SaveOverPSD>True</SaveOverPSD>
+	<LoadPSDSmartObjects>True</LoadPSDSmartObjects>
 	<KeepSelectionsAfterDelete>False</KeepSelectionsAfterDelete>
 	<ImportPSDTextAsText2>True</ImportPSDTextAsText2>
 	<RefineHEICDepthMaps>False</RefineHEICDepthMaps>
